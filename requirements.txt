@@ -1,0 +1,9 @@
+telethon
+cryptg
+py-tgcalls
+pillow
+yt-dlp
+aiohttp
+hachoir
+quart
+requests

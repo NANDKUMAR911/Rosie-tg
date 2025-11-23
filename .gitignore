@@ -1,0 +1,41 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment / sensitive files
+config.env
+.env
+*.session
+*.session-journal
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Docker
+*.pid
+
+# Media temp files
+downloads/
+temp/
+cache/
+
+# Telethon session files
+*.session*
+*.session-journal
+*cookies.txt
