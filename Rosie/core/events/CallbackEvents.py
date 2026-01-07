@@ -1,7 +1,7 @@
 import asyncio
 import functools
 from telethon import events, errors
-from core.db import AdminsCache 
+from Rosie.core.db import AdminsCache 
 from .wrappers import admins as admins_cache
 from Rosie.core.replies import font_style, get_reply
 
