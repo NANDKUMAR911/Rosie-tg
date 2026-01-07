@@ -5,7 +5,7 @@ from pytgcalls import PyTgCalls
 from pytgcalls.types import Update
 from pytgcalls import filters as call_filters
 from telethon import events
-from core.events import MessageEvents, CallbackEvents, command_pattern
+from Rosie.core.events import MessageEvents, CallbackEvents, command_pattern
 from .handles import (
     userbot_status,
     play,
