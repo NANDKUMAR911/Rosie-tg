@@ -1,4 +1,4 @@
-from core.db import UserbotStatus
+from Rosie.core.db import UserbotStatus
 from telethon.tl.types import (
     UpdateChannel
 )
