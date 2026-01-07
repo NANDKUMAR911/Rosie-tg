@@ -6,8 +6,8 @@ chat ID, user ID, username, name, bot status, rank, and admin_rights.
 """
 import asyncio
 from telethon import TelegramClient
-from core.api import RequestChannelAdmins, bitmask
-from core.sql import execute, execute_many
+from Rosie.core.api import RequestChannelAdmins, bitmask
+from Rosie.core.sql import execute, execute_many
 
 
 
