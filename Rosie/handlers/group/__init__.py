@@ -2,7 +2,7 @@
 Register all bot command handlers here.
 """
 from telethon import events
-from core.events import MessageEvents
+from Rosie.core.events import MessageEvents
 from .handles import (
     admins_cache
 )
