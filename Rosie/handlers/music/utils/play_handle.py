@@ -1,6 +1,6 @@
 import asyncio
 from telethon import Button
-from core.replies import font_style
+from Rosie.core.replies import font_style
 from pytgcalls.types import MediaStream
 
 
