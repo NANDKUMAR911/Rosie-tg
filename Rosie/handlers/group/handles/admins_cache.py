@@ -2,7 +2,7 @@
 Module to manage Telegram group admins: caches admin lists, updates on promote/demote,
 provides admin info, and supports reporting or auditing actions.
 """
-from core.db import AdminsCache
+from Rosie.core.db import AdminsCache
 from telethon.tl.types import (
     UpdateChannelParticipant,
     ChannelParticipantCreator,
