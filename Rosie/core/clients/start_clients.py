@@ -3,7 +3,7 @@ from pytgcalls import PyTgCalls
 from pytgcalls import idle
 from telethon import TelegramClient
 from telethon.sessions import StringSession
-from handlers import register_clients
+from Rosie.handlers import register_clients
 
 api_id = config.API_ID
 api_hash = config.API_HASH
