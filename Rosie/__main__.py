@@ -1,7 +1,7 @@
 import os
 import asyncio
 from quart import Quart
-from core.clients import start_clients
+from Rosie.core.clients import start_clients
 
 app = Quart(__name__)
 
