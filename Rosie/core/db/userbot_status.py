@@ -1,6 +1,6 @@
 import asyncio  
-from core.sql import execute  
-from core.api import get_member_status  
+from Rosie.core.sql import execute  
+from Rosie.core.api import get_member_status  
 
 
 # ------------------------------------------------------------
