@@ -1,7 +1,7 @@
 import re
 from ..utils import youtube
 from ..utils.play_handle import play_song
-from core.db import UserbotStatus
+from Rosie.core.db import UserbotStatus
 from telethon.tl.functions.messages import ImportChatInviteRequest
 from telethon.tl.functions.messages import ExportChatInviteRequest
 from telethon import errors
