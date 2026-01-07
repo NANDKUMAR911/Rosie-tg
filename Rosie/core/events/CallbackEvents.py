@@ -3,7 +3,7 @@ import functools
 from telethon import events, errors
 from core.db import AdminsCache 
 from .wrappers import admins as admins_cache
-from core.replies import font_style, get_reply
+from Rosie.core.replies import font_style, get_reply
 
 
 
